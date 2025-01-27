@@ -1,21 +1,13 @@
-<h1 align="center">Hi👋,My name is Richard Aaron</h1>
-<h3 align="center">I'm a FrontEnd Developer in process</h3>
+<h1 align="center">Hola👋, mi nombre es Richard Aaron</h1>
+<h3 align="center">Soy un desarrollador FrontEnd y BackEnd en proceso</h3>
 
-- 🔭 I’m currently working on **some own projects**
+- 🔭 Actualmente estoy trabajando en **algunos proyectos propios**
 
-- 🌱 I’m currently learning **JavaScript, React y Angular**
+- 🌱 Estoy aprendiendo mas acerca de **JavaScript, React y Angular**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 💬 Pregúntame sobre **Proyectos FrontEnd y BackEnd**
 
-- 📝 I regularly write articles on [soon](soon)
-
-- 💬 Ask me about **HTML, CSS y JavaScript**
-
-- 📫 How to reach me **soon**
-
-- 📄 Know about my experiences [soon](soon)
-
-- ⚡ Fun fact **I like coffee**
+- 📫 Contactame en **www.linkedin.com/in/aaron-ponce-v-b18705273**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
