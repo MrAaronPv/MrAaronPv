@@ -18,9 +18,8 @@
 
 <h3 align="left">Mis habilidades y herramientas:</h3>
 
-<h4 align="left">🛠️ Herramientas FrontEnd y BackEnd:</h4>
+<h4 align="left">🌐 Herramientas FrontEnd:</h4>
 <p align="left">
-  <!-- FrontEnd -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -33,8 +32,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- BackEnd -->
+<h4 align="left">🖥️ Herramientas BackEnd:</h4>
+<p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
@@ -44,15 +45,12 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/downloads/gui" target="_blank" rel="noreferrer" title="Git Bash">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="gitbash" width="40" height="40"/>
   </a>
 </p>
 
-<h4 align="left">📚 Frameworks y Librerías:</h4>
+<h4 align="left">📚 Frameworks/Librerías y Procesadores:</h4>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
